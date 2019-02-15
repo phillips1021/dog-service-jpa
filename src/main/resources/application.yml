@@ -1,7 +1,7 @@
 spring:
   datasource:
-    url: jdbc:mysql://localhost:33099/dogs
-    password: password
+    url: jdbc:mysql://localhost:3306/dogs
+    password: LTkpap4@#$
     username: root
     driver-class-name: "com.mysql.jdbc.Driver"
   jpa:
